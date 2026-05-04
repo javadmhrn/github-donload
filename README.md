@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="masterking32--masterdnsvpn"></div>
 
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Linux-Legacy_ARM64.zip` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/javadmhrn/github-donload/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Linux-Legacy_ARM64.zip) |
 <!-- RELEASES_END -->
