@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="ajavadinezhad--zyrln"></div>
 
+### ajavadinezhad--zyrln
+
+🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.2.1</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.2.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `zyrln-1.2.1.apk` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/javadmhrn/github-donload/main/releases/ajavadinezhad/zyrln/zyrln-1.2.1.apk) |
 <!-- RELEASES_END -->
