@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="ajavadinezhad--zyrln"></div>
+<div id="nullroute1970--stormdns"></div>
 
-### ajavadinezhad--zyrln
+### nullroute1970--StormDNS
 
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.2.1</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.2.1)
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.04.26.153956-15aedd9</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.04.26.153956-15aedd9)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-1.2.1.apk` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/javadmhrn/github-donload/main/releases/ajavadinezhad/zyrln/zyrln-1.2.1.apk) |
+| `StormDNS_Client_Linux_AMD64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/javadmhrn/github-donload/main/releases/nullroute1970/StormDNS/StormDNS_Client_Linux_AMD64.zip) |
 <!-- RELEASES_END -->
